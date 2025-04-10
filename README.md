@@ -13,6 +13,7 @@
 - 🎆 **Light Dance Editor**  
   A cross-platform system using **PyQt + Web** to edit LED choreography with frame-accurate preview,  
   timeline control, and JSON exporting. Inspired by Light Balance performances.
+  ![image](https://hackmd.io/_uploads/r1Jxdq4Ryl.png)
 
 - 🚧 **Smart Taxi Matching System** *(in development)*  
   Designing a **LINE Bot + Google Maps API + OR-Tools** system to match passengers and find  
