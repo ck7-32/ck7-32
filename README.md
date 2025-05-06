@@ -30,7 +30,7 @@ Actively involved in **event planning**, including orientation & Christmas activ
 
 ## 📫 Contact Me
 
-- 📮 Instagram:terr_.415
+- 📮 Instagram:terry_.415
 - 📭 terry20070415@gmail.com
 ---
 
